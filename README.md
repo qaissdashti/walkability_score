@@ -7,5 +7,13 @@ This analysis is intended to provide a generalized score of a city in comparison
 
 
 # Data sources
+The Nasa population density file.
+https://sedac.ciesin.columbia.edu/data/collection/gpw-v4
 
 # Libraries
+1. Pandana
+2. Geopandas
+3. Numpy
+4. Rasterio
+5. osmnx
+6. shapely
